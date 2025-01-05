@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohan Sai
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently working as a senior front-end developer (React JS)
 - 📫 You can reach out to me @+91 8985181373 and mohansai850@gmail.com
 
 <!---
